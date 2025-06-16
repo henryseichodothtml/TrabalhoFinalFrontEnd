@@ -3,11 +3,10 @@ import { AuthProvider } from './AuthContext';
 import PrivateRoute from './PrivateRoute';
 
 import Home from './pages/home';
-import Lista from './pages/lista';
 import Detalhes from './pages/detalhes';
 import Login from './pages/login';
 import Admin from './pages/admin';
-import ExibirReceita from './pages/receita';
+import ExibirReceita from './pages/paginaLivro';
 import Nova from './pages/nova';
 import ListaAdmin from './pages/listaAdmin';
 import Reviews from './components/BookSearch';

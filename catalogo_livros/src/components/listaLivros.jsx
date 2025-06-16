@@ -1,5 +1,5 @@
 import React from 'react';
-import Receita from './receita';
+import Receita from './livro';
 
 export var receitas = [];
 

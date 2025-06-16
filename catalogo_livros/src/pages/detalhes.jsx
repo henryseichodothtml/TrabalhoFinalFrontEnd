@@ -1,5 +1,5 @@
 import React from "react";
-import ListaReceitas from "../components/listaReceitas";
+import ListaReceitas from "../components/listaLivros";
 
 function Detalhes() {
   return (

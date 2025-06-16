@@ -1,6 +1,6 @@
 import React from "react";
 import Detalhes from "./detalhes";
-import ListaReceitas from "../components/listaReceitas";
+import ListaReceitas from "../components/listaLivros";
 
 function Home() {
   return (

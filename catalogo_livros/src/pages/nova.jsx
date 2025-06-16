@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { receitas } from '../components/listaReceitas';
+import { receitas } from '../components/listaLivros';
 
 const Nova = () => {
   const [nome, setNome] = useState('');

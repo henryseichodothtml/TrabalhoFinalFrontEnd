@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import { receitas } from '../components/listaReceitas';
+import { receitas } from '../components/listaLivros';
 
 const ExibirReceita = () => {
   const { id } = useParams();
