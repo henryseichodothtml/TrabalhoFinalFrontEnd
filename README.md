@@ -22,33 +22,39 @@ Funcionalidades
 
 Estrutura do Projeto
 
-meu-projeto/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Header.jsx
-│   │   └── BookCard.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Catalog.jsx
-│   │   └── BookDetails.jsx
-│   ├── services/
-│   │   └── fakerApi.js
-│   ├── utils/
-│   │   └── storage.js
-│   ├── styles/
-│   │   └── global.css
-│   ├── App.jsx
-│   └── main.jsx
-├── .env
-├── .eslintrc.cjs
-├── eslint.config.js
-├── vite.config.js
-├── package.json
-├── package-lock.json
-└── README.md
+```
+└── 📁catalogo_livros
+    └── 📁public
+        └── vite.svg
+    └── 📁src
+        └── App.css
+        └── App.jsx
+        └── 📁assets
+            └── react.svg
+        └── AuthContext.jsx
+        └── 📁components
+            └── BookSearch.jsx
+            └── listaLivros.jsx
+            └── livro.jsx
+        └── index.css
+        └── main.jsx
+        └── 📁pages
+            └── admin.jsx
+            └── detalhes.jsx
+            └── home.jsx
+            └── lista.jsx
+            └── listaAdmin.jsx
+            └── login.jsx
+            └── nova.jsx
+            └── paginaLivro.jsx
+        └── PrivateRoute.jsx
+    └── eslint.config.js
+    └── index.html
+    └── package-lock.json
+    └── package.json
+    └── README.md
+    └── vite.config.js
+```
 
 
 Instalação e Execução Local
