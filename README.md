@@ -14,7 +14,7 @@ Tecnologias Utilizadas
 
 Funcionalidades
 
-- Cadastrar livros (título, autor, ano, descrição).
+- Cadastrar livros (título, autor, sinopse, preço).
 - Visualizar lista de livros cadastrados.
 - Gerar avaliações falsas automaticamente com a API do FakerAPI.
 - Remover livros.
