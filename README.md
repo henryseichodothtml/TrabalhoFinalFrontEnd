@@ -81,7 +81,7 @@ Requisição da API
       }));
 
 Componente 
-
+```
 import { useNavigate } from 'react-router-dom';
 
 const Receita = ({ id, nome }) => {
@@ -126,7 +126,7 @@ const styles = {
 };
 
 export default Receita;
-
+```
 
 Licença
 (inexistente)
